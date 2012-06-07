@@ -1,0 +1,96 @@
+psql:llp-coord.sql:5: NOTICE:  table "inst_coord" does not exist, skipping
+psql:llp-coord.sql:9: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "inst_coord_pkey" for table "inst_coord"
+psql:llp-coord.sql:13: NOTICE:  table "boundary_coord" does not exist, skipping
+psql:llp-coord.sql:18: NOTICE:  CREATE TABLE / PRIMARY KEY will create implicit index "boundary_coord_pkey" for table "boundary_coord"
+psql:load/load-llp-coords.sql:1: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:2: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:3: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:4: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:5: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:6: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:7: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:8: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:9: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:10: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:11: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:12: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:13: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:14: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:15: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:16: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:17: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:18: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:19: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:20: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:21: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:22: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:23: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:24: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:25: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:26: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:27: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:28: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:29: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:30: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:31: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:32: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:33: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:34: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:35: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:36: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:37: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:38: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:39: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:40: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:41: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:42: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:43: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:44: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:45: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
+psql:load/load-llp-coords.sql:46: WARNING:  OGC WKT expected, EWKT provided - use GeomFromEWKT() for this
+CONTEXT:  SQL function "geomfromtext" statement 1
